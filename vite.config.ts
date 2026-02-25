@@ -42,8 +42,8 @@ export default defineConfig(({ mode }) => {
             injectRegister: "auto",
             includeAssets: ["favicon.ico", "apple-touch-icon.png"],
             manifest: {
-                name: "Cent - 日计",
-                short_name: "Cent",
+                name: "瑶瑶记账",
+                short_name: "瑶瑶记账",
                 description: "Accounting your life - 记录每一天",
                 theme_color: "#ffffff",
                 icons: [
